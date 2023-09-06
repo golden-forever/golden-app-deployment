@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/golden-app-deployment/static/css/main.69053253.css",
+    "main.js": "/golden-app-deployment/static/js/main.724f38e3.js",
+    "static/js/787.45b5271e.chunk.js": "/golden-app-deployment/static/js/787.45b5271e.chunk.js",
+    "static/media/search-results.png": "/golden-app-deployment/static/media/search-results.8fea4cbca0105a6ebdc5.png",
+    "static/media/user-2.png": "/golden-app-deployment/static/media/user-2.ba7ab8a99ccc5d805cea.png",
+    "static/media/user-1.png": "/golden-app-deployment/static/media/user-1.187f40326d2a0647575b.png",
+    "static/media/google.svg": "/golden-app-deployment/static/media/google.3f2e4444094c0a9a9288c5a91dd2b64a.svg",
+    "index.html": "/golden-app-deployment/index.html",
+    "main.69053253.css.map": "/golden-app-deployment/static/css/main.69053253.css.map",
+    "main.724f38e3.js.map": "/golden-app-deployment/static/js/main.724f38e3.js.map",
+    "787.45b5271e.chunk.js.map": "/golden-app-deployment/static/js/787.45b5271e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69053253.css",
+    "static/js/main.724f38e3.js"
+  ]
+}
